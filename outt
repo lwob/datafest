@@ -1,0 +1,270 @@
+Price $
+Prediction: [  1.00000000e+00   4.71152000e-07   8.04201000e-20   1.36095000e-26
+   0.00000000e+00]
+Actual: [ 1.  0.  0.  0.  0.]
+1.
+  orig_destination_distance: 184.9337
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 7.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 9.0
+  srch_children_cnt: 2.0
+  srch_rm_cnt: 4.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 0
+  popularity_band_n: 4.0
+Prediction: [  1.00000000e+00   4.24395000e-07   1.74642000e-17   3.33072000e-24
+   0.00000000e+00]
+Actual: [ 1.  0.  0.  0.  0.]
+2.
+  orig_destination_distance: 331.1305
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 153.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 8.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 4.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 0
+  popularity_band_n: 3.0
+Prediction: [  1.00000000e+00   1.69353000e-07   5.02738000e-20   2.52469000e-26
+   0.00000000e+00]
+Actual: [ 1.  0.  0.  0.  0.]
+3.
+  orig_destination_distance: 227.5021
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 13.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 0
+  popularity_band_n: 3.0
+
+Price $$
+Prediction: [  6.00949000e-08   1.00000000e+00   3.32643000e-07   8.34216000e-16
+   9.19383000e-36]
+Actual: [ 0.  1.  0.  0.  0.]
+1.
+  orig_destination_distance: 38.872
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 6.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 3.0
+  srch_rm_cnt: 2.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 1
+  popularity_band_n: 3.0
+Prediction: [  1.87471000e-08   1.00000000e+00   4.90315000e-07   1.26510000e-15
+   2.77925000e-35]
+Actual: [ 0.  1.  0.  0.  0.]
+2.
+  orig_destination_distance: 0.6328
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 1.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 1
+  popularity_band_n: 4.0
+Prediction: [  7.14040000e-08   1.00000000e+00   9.98348000e-08   7.81190000e-17
+   1.87326000e-38]
+Actual: [ 0.  1.  0.  0.  0.]
+3.
+  orig_destination_distance: 21.4782
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 1.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 4.0
+  hist_price_band_n: 1
+  popularity_band_n: 4.0
+
+Price $$$
+Prediction: [  0.00000000e+00   2.33081000e-07   1.00000000e+00   1.13052000e-07
+   1.51069000e-22]
+Actual: [ 0.  0.  1.  0.  0.]
+1.
+  orig_destination_distance: 465.4182
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 3.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 2.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Prediction: [  0.00000000e+00   7.34703000e-08   1.00000000e+00   4.61471000e-07
+   1.08881000e-21]
+Actual: [ 0.  0.  1.  0.  0.]
+2.
+  orig_destination_distance: 170.1662
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 23.0
+  duration_of_stay: 7.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 2
+  popularity_band_n: 2.0
+Prediction: [  0.00000000e+00   4.63066000e-10   1.00000000e+00   5.29880000e-08
+   1.52798000e-25]
+Actual: [ 0.  0.  1.  0.  0.]
+3.
+  orig_destination_distance: 0.8659
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 0.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 2.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+
+Price $$$$
+Prediction: [  0.00000000e+00   2.05856000e-25   4.36772000e-07   9.99999000e-01
+   4.94496000e-07]
+Actual: [ 0.  0.  0.  1.  0.]
+1.
+  orig_destination_distance: 168.7415
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 90.0
+  duration_of_stay: -88.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Prediction: [  0.00000000e+00   9.24536000e-27   4.48914000e-07   9.99999000e-01
+   6.69292000e-07]
+Actual: [ 0.  0.  0.  1.  0.]
+2.
+  orig_destination_distance: 0.2275
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 0.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 3.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Prediction: [  0.00000000e+00   3.89956000e-27   5.60479000e-07   9.99999000e-01
+   8.48447000e-07]
+Actual: [ 0.  0.  0.  1.  0.]
+3.
+  orig_destination_distance: 37.9787
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 0.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+
+Price $$$$$
+Prediction: [  0.00000000e+00   0.00000000e+00   4.08139000e-29   4.59745000e-07
+   1.00000000e+00]
+Actual: [ 0.  0.  0.  0.  1.]
+1.
+  orig_destination_distance: 331.7457
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 5.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Prediction: [  0.00000000e+00   0.00000000e+00   1.56580000e-28   4.20589000e-07
+   1.00000000e+00]
+Actual: [ 0.  0.  0.  0.  1.]
+2.
+  orig_destination_distance: 176.9777
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 11.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Prediction: [  0.00000000e+00   0.00000000e+00   1.61340000e-28   3.51052000e-07
+   1.00000000e+00]
+Actual: [ 0.  0.  0.  0.  1.]
+3.
+  orig_destination_distance: 155.5809
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 4.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 0.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 2.0
+
+Python 3.6.1 (default, Mar 27 2017, 00:27:06) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: Do you really want to exit ([y]/n)? 

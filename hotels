@@ -1,0 +1,1903 @@
+Prediction: [  3.33538000e-10   9.99999000e-01   5.71723000e-07   2.48988000e-17
+   0.00000000e+00]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 17.4209
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 21.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Century City, Los Angeles, California, United States of America
+location: 557 34.05508
+
+Prediction: [  2.28221000e-14   9.92594000e-01   7.40635000e-03   9.70320000e-12
+   2.89540000e-33]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 109.76799999999999
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 21.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+Yorkton, Saskatchewan, Canada
+location: 557 51.21419
+
+Prediction: [  0.00000000e+00   7.28464000e-32   3.27157000e-12   9.08260000e-01
+   9.17400000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 410.4749
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 237.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 2.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Vienna (and vicinity), Austria
+location: 464 48.204845
+
+Prediction: [  2.24115000e-37   1.71370000e-05   9.26378000e-01   7.22469000e-02
+   1.35804000e-03]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 9840.4889
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 7.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 5.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 5.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Kebayoran Baru, Jakarta, Indonesia
+location: 774 -6.2416540000000005
+
+Prediction: [  0.00000000e+00   5.60479000e-33   9.86823000e-11   9.98516000e-01
+   1.48435000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 505.0343
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 15.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+South Padre Island (and vicinity), Texas, United States of America
+location: 464 26.095991
+
+Prediction: [  0.00000000e+00   8.63792000e-10   9.97547000e-01   2.45317000e-03
+   2.23930000e-13]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1245.4441
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 130.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Socorro, New Mexico, United States of America
+location: 557 33.95942
+
+Prediction: [  0.00000000e+00   7.81119000e-12   9.93133000e-01   6.86671000e-03
+   5.61495000e-14]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1027.2638
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 122.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 2.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Prudential Center, Newark, New Jersey, United States of America
+location: 681 40.73366
+
+Prediction: [  9.41243000e-01   5.87573000e-02   8.69142000e-08   5.94831000e-15
+   2.27573000e-28]
+Actual: [ 0.  1.  0.  0.  0.]
+  orig_destination_distance: 340.463
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 365.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 1
+  popularity_band_n: 2.0
+San Jose, California, United States of America
+location: 774 37.31503
+
+Prediction: [  0.00000000e+00   7.07769000e-12   9.96870000e-01   3.13002000e-03
+   2.27898000e-15]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 698.4368
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 17.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Brown Deer, Milwaukee, Wisconsin, United States of America
+location: 557 43.17763
+
+Prediction: [  9.70489000e-14   9.78509000e-01   2.14913000e-02   4.38933000e-11
+   2.20990000e-32]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 108.255
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 34.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 1.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+North Conway, New Hampshire, United States of America
+location: 774 44.041940000000004
+
+Prediction: [  0.00000000e+00   2.54313000e-33   6.00090000e-10   9.99990000e-01
+   1.05153000e-05]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 263.6229
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 16.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 2.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+West of The Strip, Nevada, United States of America
+location: 774 36.115629999999996
+
+Prediction: [  0.00000000e+00   4.33210000e-33   9.69117000e-13   9.49198000e-01
+   5.08024000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 854.6242
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 88.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Las Vegas (and vicinity), Nevada, United States of America
+location: 464 36.11410775
+
+Prediction: [  0.00000000e+00   4.01194000e-14   9.99710000e-01   2.90372000e-04
+   4.09707000e-20]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 26.8689
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 51.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+San Diego (county), California, United States of America
+location: 464 32.756040999999996
+
+Prediction: [  0.00000000e+00   2.56895000e-20   2.46854000e-03   9.97531000e-01
+   7.18361000e-07]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 5101.157
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 13.0
+  duration_of_stay: 305.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Matera, Italy
+location: 774 40.66965
+
+Prediction: [  0.00000000e+00   3.10588000e-12   9.99975000e-01   2.45724000e-05
+   6.93599000e-22]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 127.6687
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 137.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+
+Prediction: [  0.00000000e+00   1.64378000e-30   1.45616000e-11   9.14665000e-01
+   8.53347000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 849.117
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 337.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+French Quarter, New Orleans, Louisiana, United States of America
+location: 774 29.95761
+
+Prediction: [  0.00000000e+00   1.63978000e-37   6.92712000e-12   9.99223000e-01
+   7.76860000e-04]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 212.2489
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 1.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 5.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 3.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+House of Pacific Relations International Cottages, San Diego, California, United States of America
+location: 681 32.729420000000005
+
+Prediction: [  6.63781000e-14   9.82069000e-01   1.79307000e-02   2.55942000e-11
+   1.00727000e-32]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 10.2218
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 20.0
+  duration_of_stay: 6.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+Seattle (and vicinity), Washington, United States of America
+location: 464 47.61223
+
+Prediction: [  1.18506000e-15   9.42837000e-01   5.71634000e-02   5.34634000e-10
+   7.05087000e-29]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 144.7058
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 12.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Seattle (and vicinity), Washington, United States of America
+location: 464 47.61223
+
+Prediction: [  0.00000000e+00   2.78244000e-09   9.67557000e-01   3.24429000e-02
+   2.43299000e-09]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 3859.8301
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 14.0
+  duration_of_stay: 193.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Tokyo (and vicinity), Japan
+location: 464 35.6832
+
+Prediction: [  2.70296000e-28   9.47859000e-06   9.56170000e-01   4.32284000e-02
+   5.92034000e-04]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 4760.2291
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 259.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Fuessen, Germany
+location: 774 47.583079999999995
+
+Prediction: [  6.24907000e-19   1.68891000e-03   9.85912000e-01   1.19916000e-02
+   4.07153000e-04]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 5804.9964
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 450.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Mitte, Berlin, Germany
+location: 774 52.53201
+
+Prediction: [  6.72561000e-16   9.56052000e-01   4.39481000e-02   7.13540000e-11
+   6.23414000e-32]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 210.6987
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 6.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Dupont Circle, Washington, District of Columbia, United States of America
+location: 774 38.9119
+
+Prediction: [  0.00000000e+00   2.71614000e-09   9.97224000e-01   2.77629000e-03
+   1.57473000e-12]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1483.0594
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 22.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Miami (and vicinity), Florida, United States of America
+location: 464 25.793337
+
+Prediction: [  0.00000000e+00   5.75271000e-35   3.43566000e-10   9.99517000e-01
+   4.83157000e-04]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 74.6976
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 54.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+San Diego (county), California, United States of America
+location: 464 32.756040999999996
+
+Prediction: [  9.82704000e-12   9.99961000e-01   3.92968000e-05   5.20394000e-15
+   0.00000000e+00]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 0.5913
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 33.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+Midtown East - Grand Central, New York, New York, United States of America
+location: 774 40.75143
+
+Prediction: [  0.00000000e+00   1.07875000e-08   9.15133000e-01   8.47170000e-02
+   1.49842000e-04]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 4996.7787
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 263.0
+  duration_of_stay: 6.0
+  srch_adults_cnt: 8.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 4.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Rhodes Town, Rhodes, Greece
+location: 774 36.43357
+
+Prediction: [  0.00000000e+00   1.77624000e-33   1.16808000e-12   9.51062000e-01
+   4.89378000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 698.0114
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 31.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 2.0
+New York (and vicinity), New York, United States of America
+location: 464 40.756562
+
+Prediction: [  0.00000000e+00   4.86743000e-14   9.96235000e-01   3.76460000e-03
+   6.58011000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 11.2745
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 19.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 0.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Cincinnati (and vicinity), Ohio, United States of America
+location: 464 39.102540000000005
+
+Prediction: [  0.00000000e+00   2.30785000e-07   9.60690000e-01   3.93053000e-02
+   4.31073000e-06]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 2101.3919
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 43.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Disneyland - Anaheim, California, United States of America
+location: 774 33.8087
+
+Prediction: [  0.00000000e+00   0.00000000e+00   1.49706000e-13   9.79234000e-01
+   2.07659000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 95.1159
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 3.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 4.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Charlottesville (and vicinity), Virginia, United States of America
+location: 464 38.05858
+
+Prediction: [  1.02873000e-13   9.99921000e-01   7.90132000e-05   2.34640000e-13
+   4.81219000e-33]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 704.5092
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 22.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 2.0
+Milwaukee, WI, United States (MKE-General Mitchell Intl.)
+location: 712 43.09537
+
+Prediction: [  0.00000000e+00   6.36711000e-35   3.44008000e-13   9.87288000e-01
+   1.27121000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 372.8911
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 18.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Branson (and vicinity), Missouri, United States of America
+location: 464 36.63893
+
+Prediction: [  0.00000000e+00   2.27435000e-13   9.98655000e-01   1.34516000e-03
+   7.57603000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 200.65599999999998
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 6.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Grand Junction, Colorado, United States of America
+location: 774 39.11768
+
+Prediction: [  0.00000000e+00   3.56932000e-34   5.17446000e-11   9.95373000e-01
+   4.62707000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 193.4888
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 40.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 2.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Laughlin, NV, United States (IFP-Laughlin - Bullhead Intl.)
+location: 712 35.16433
+
+Prediction: [  2.16233000e-04   9.97889000e-01   1.89524000e-03   6.02016000e-09
+   1.07484000e-18]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 1509.1717
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 353.0
+  duration_of_stay: 7.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 4.0
+  hist_price_band_n: 2
+  popularity_band_n: 2.0
+Isla Mujeres, Quintana Roo, Mexico
+location: 774 21.23452
+
+Prediction: [  0.00000000e+00   1.14249000e-13   9.99012000e-01   9.88458000e-04
+   2.82283000e-17]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 225.0443
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 152.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Atlanta (and vicinity), Georgia, United States of America
+location: 464 33.772595
+
+Prediction: [  0.00000000e+00   1.28466000e-34   7.11010000e-11   9.96845000e-01
+   3.15497000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 185.7154
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 21.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 1.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Downtown - Riverwalk, San Antonio, Texas, United States of America
+location: 774 29.423340000000003
+
+Prediction: [  0.00000000e+00   1.56431000e-23   1.38319000e-06   9.40679000e-01
+   5.93195000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 1397.5759
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 3.0
+  duration_of_stay: 160.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Mazatlan (and vicinity), Sinaloa, Mexico
+location: 464 23.251148
+
+Prediction: [  0.00000000e+00   3.08127000e-09   9.95016000e-01   4.98439000e-03
+   2.73626000e-12]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1396.0639999999999
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 26.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Santiago (and vicinity), Chile
+location: 464 -33.424046999999995
+
+Prediction: [  0.00000000e+00   2.37411000e-13   9.99476000e-01   5.23824000e-04
+   1.22440000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 23.945999999999998
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 36.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 0.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Washington (and vicinity), District of Columbia, United States of America
+location: 464 38.903690000000005
+
+Prediction: [  0.00000000e+00   4.36314000e-13   9.99559000e-01   4.41264000e-04
+   1.33027000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 184.7956
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 44.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Rancho Mirage, California, United States of America
+location: 774 33.76627
+
+Prediction: [  0.00000000e+00   1.54518000e-08   1.00000000e+00   7.77067000e-09
+   3.98972000e-28]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 116.4033
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 7.0
+  duration_of_stay: 9.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Cumberland, MD, United States (CBE-Greater Cumberland Regional)
+location: 712 39.61631
+
+Prediction: [  0.00000000e+00   1.88827000e-21   3.44624000e-10   9.61364000e-01
+   3.86356000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 2586.5418
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 166.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 8.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 8.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+San Francisco (and vicinity), California, United States of America
+location: 464 37.786182000000004
+
+Prediction: [  3.19012000e-17   9.01355000e-01   9.86446000e-02   7.04778000e-08
+   2.43597000e-19]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 1905.8498
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 81.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 8.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 1.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Batesville, Mississippi, United States of America
+location: 774 34.32005
+
+Prediction: [  0.00000000e+00   1.24282000e-09   1.00000000e+00   3.94885000e-07
+   5.74455000e-23]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 508.3089
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 52.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Savannah (and vicinity), Georgia, United States of America
+location: 464 32.072720000000004
+
+Prediction: [  0.00000000e+00   2.06251000e-35   2.60826000e-10   9.99991000e-01
+   9.29691000e-06]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 0.2655
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 11.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Downtown Milwaukee, Wisconsin, United States of America
+location: 774 43.04014
+
+Prediction: [  6.74013000e-16   9.47008000e-01   5.29922000e-02   8.74604000e-11
+   1.00525000e-31]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 212.667
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 5.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+Las Vegas (and vicinity), Nevada, United States of America
+location: 464 36.11410775
+
+Prediction: [  0.00000000e+00   6.36839000e-35   1.11530000e-12   9.19913000e-01
+   8.00873000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 644.8592
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 45.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 2.0
+Midtown West, New York, New York, United States of America
+location: 774 40.76327
+
+Prediction: [  9.60607000e-14   9.98998000e-01   1.00193000e-03   7.18283000e-12
+   5.54933000e-22]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 4843.2722
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 3.0
+  duration_of_stay: 200.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Oahu Island, Hawaii, United States of America
+location: 464 21.278669
+
+Prediction: [  0.00000000e+00   8.17501000e-35   4.65169000e-13   9.60399000e-01
+   3.96007000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 326.5595
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 8.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Union Square, San Francisco, California, United States of America
+location: 774 37.79019
+
+Prediction: [  0.00000000e+00   4.88520000e-13   9.99925000e-01   7.53886000e-05
+   3.44264000e-20]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 206.2459
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 22.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Las Vegas (and vicinity), Nevada, United States of America
+location: 464 36.11410775
+
+Prediction: [  0.00000000e+00   2.39605000e-35   6.47724000e-13   9.94108000e-01
+   5.89190000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 2.4972
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 4.0
+  duration_of_stay: 6.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 2.0
+Greenwood, Indiana, United States of America
+location: 557 39.60131
+
+Prediction: [  0.00000000e+00   6.34763000e-31   7.61098000e-08   9.99979000e-01
+   2.10924000e-05]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 205.0656
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 202.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 3.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 3.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Tampa (and vicinity), Florida, United States of America
+location: 464 27.967602000000003
+
+Prediction: [  9.35415000e-01   6.44882000e-02   9.71037000e-05   9.89239000e-10
+   5.90764000e-19]
+Actual: [ 0.  1.  0.  0.  0.]
+  orig_destination_distance: 5016.4508
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 269.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 2.0
+  distance_band_n: 2.0
+  hist_price_band_n: 1
+  popularity_band_n: 2.0
+Torrington, Wyoming, United States of America
+location: 557 42.074690000000004
+
+Prediction: [  0.00000000e+00   3.07614000e-11   9.13710000e-01   8.62901000e-02
+   5.37859000e-10]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1205.2929
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 53.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Miami (and vicinity), Florida, United States of America
+location: 464 25.793337
+
+Prediction: [  0.00000000e+00   7.28448000e-11   9.99518000e-01   4.82475000e-04
+   2.09552000e-16]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 960.3639999999999
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 5.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Seattle (and vicinity), Washington, United States of America
+location: 464 47.61223
+
+Prediction: [  0.00000000e+00   2.18392000e-23   5.04753000e-07   9.63382000e-01
+   3.66172000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 2298.5888
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 0.0
+  duration_of_stay: 79.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+San Francisco (and vicinity), California, United States of America
+location: 464 37.786182000000004
+
+Prediction: [  0.00000000e+00   1.66739000e-11   9.28301000e-01   7.16985000e-02
+   1.89481000e-09]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 939.1036
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 248.0
+  duration_of_stay: 5.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 2.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Playa del Carmen, Quintana Roo, Mexico
+location: 774 20.630329999999997
+
+Prediction: [  0.00000000e+00   9.16030000e-09   9.75854000e-01   2.41464000e-02
+   1.29351000e-09]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1189.6935
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 66.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Manuel Antonio Beach, Manuel Antonio, Costa Rica
+location: 681 9.38156
+
+Prediction: [  0.00000000e+00   5.17480000e-10   9.96801000e-01   3.19856000e-03
+   1.12147000e-11]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1528.1266
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 52.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 7.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 7.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Fairbanks, AK, United States (FAI-Fairbanks Intl.)
+location: 712 64.85654
+
+Prediction: [  0.00000000e+00   1.66694000e-19   3.29577000e-07   9.93301000e-01
+   6.69868000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 2568.2619
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 158.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 8.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 8.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+San Francisco (and vicinity), California, United States of America
+location: 464 37.786182000000004
+
+Prediction: [  0.00000000e+00   3.52817000e-16   4.12364000e-03   9.06843000e-01
+   8.90331000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 8347.8222
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 121.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 7.0
+  srch_children_cnt: 5.0
+  srch_rm_cnt: 3.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Dubai Emirate, United Arab Emirates
+location: 464 25.207977
+
+Prediction: [  2.81063000e-06   9.34705000e-01   6.52925000e-02   8.78034000e-08
+   5.04253000e-21]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 298.0538
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 360.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 4.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 0.0
+  hist_price_band_n: 2
+  popularity_band_n: 2.0
+Munich (and vicinity), Germany
+location: 464 48.138773
+
+Prediction: [  1.36235000e-35   2.23861000e-07   9.36666000e-01   6.29669000e-02
+   3.66683000e-04]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 4996.7787
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 263.0
+  duration_of_stay: 6.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Rhodes Town, Rhodes, Greece
+location: 774 36.43357
+
+Prediction: [  0.00000000e+00   1.97529000e-10   9.99999000e-01   8.44315000e-07
+   2.05763000e-23]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 658.4043
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 44.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Miami (and vicinity), Florida, United States of America
+location: 464 25.793337
+
+Prediction: [  0.00000000e+00   1.09344000e-36   2.43971000e-12   9.92335000e-01
+   7.66450000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 73.7203
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 123.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Chicago (and vicinity), Illinois, United States of America
+location: 464 41.891665
+
+Prediction: [  8.66386000e-08   9.12524000e-01   8.74759000e-02   1.69499000e-08
+   7.39779000e-25]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 194.0849
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 300.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 2
+  popularity_band_n: 2.0
+Syracuse (and vicinity), New York, United States of America
+location: 464 43.090467
+
+Prediction: [  6.54472000e-36   2.88217000e-11   9.99390000e-01   6.10111000e-04
+   2.52546000e-17]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 116.9637
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 255.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+College of William and Mary, Williamsburg, Virginia, United States of America
+location: 681 37.273270000000004
+
+Prediction: [  0.00000000e+00   5.93002000e-13   9.99498000e-01   5.01655000e-04
+   3.13201000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 121.4402
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 10.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Albany (and vicinity), New York, United States of America
+location: 464 42.688726
+
+Prediction: [  0.00000000e+00   1.24175000e-10   9.97589000e-01   2.41120000e-03
+   3.36990000e-14]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 975.4166
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 59.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Orlando (and vicinity), Florida, United States of America
+location: 464 28.378202
+
+Prediction: [  6.77398000e-13   9.99892000e-01   1.08219000e-04   2.88905000e-13
+   1.31893000e-33]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 650.7533
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 51.0
+  duration_of_stay: 5.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Lafayette (and vicinity), Indiana, United States of America
+location: 464 40.41762
+
+Prediction: [  0.00000000e+00   7.58732000e-09   9.99982000e-01   1.75556000e-05
+   2.38513000e-18]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 960.0477
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 87.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 0.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Chicago (and vicinity), Illinois, United States of America
+location: 464 41.891665
+
+Prediction: [  0.00000000e+00   9.32620000e-29   3.56054000e-07   9.99837000e-01
+   1.62825000e-04]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 255.0714
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 26.0
+  duration_of_stay: 82.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+San Francisco (and vicinity), California, United States of America
+location: 464 37.786182000000004
+
+Prediction: [  0.00000000e+00   3.90090000e-26   4.47496000e-08   9.99606000e-01
+   3.93772000e-04]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 1144.3387
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 116.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Tucson (and vicinity), Arizona, United States of America
+location: 464 32.227008000000005
+
+Prediction: [  0.00000000e+00   1.17196000e-36   2.25576000e-13   9.86948000e-01
+   1.30516000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 43.7397
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 52.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Sarasota (and vicinity), Florida, United States of America
+location: 464 27.341284
+
+Prediction: [  4.51528000e-11   9.96876000e-01   3.12407000e-03   4.19937000e-12
+   9.24662000e-37]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 4.1497
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 58.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 8.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Miami Beach, Florida, United States of America
+location: 774 25.84861
+
+Prediction: [  0.00000000e+00   4.04762000e-14   9.92049000e-01   7.95136000e-03
+   1.92039000e-17]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 7.9566
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 7.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Eden Prairie, Minnesota, United States of America
+location: 774 44.849070000000005
+
+Prediction: [  0.00000000e+00   3.00747000e-36   5.18208000e-12   9.84548000e-01
+   1.54520000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 41.622
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 179.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 1.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Toronto West - Pearson International Airport (YYZ), Ontario, Canada
+location: 774 43.67504
+
+Prediction: [  0.00000000e+00   4.90778000e-37   3.77220000e-14   9.29143000e-01
+   7.08571000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 22.8609
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 16.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 1.0
+West Covina, California, United States of America
+location: 557 34.06435
+
+Prediction: [  0.00000000e+00   2.66067000e-24   3.51487000e-06   9.92163000e-01
+   7.83375000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 4095.6535
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 288.0
+  duration_of_stay: 106.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 5.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Bellagio, Italy
+location: 774 45.94992
+
+Prediction: [  0.00000000e+00   2.08351000e-33   9.91600000e-12   9.25713000e-01
+   7.42875000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 832.3361
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 39.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 4.0
+  srch_rm_cnt: 4.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Los Angeles Intl. (LAX), California, United States of America
+location: 774 33.95361
+
+Prediction: [  0.00000000e+00   5.09613000e-36   1.73315000e-12   9.98541000e-01
+   1.45854000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 38.4274
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 5.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Newport Beach, California, United States of America
+location: 774 33.624990000000004
+
+Prediction: [  0.00000000e+00   9.03019000e-26   3.90280000e-08   9.96871000e-01
+   3.12884000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 980.422
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 11.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Las Vegas (and vicinity), Nevada, United States of America
+location: 464 36.11410775
+
+Prediction: [  0.00000000e+00   0.00000000e+00   4.70798000e-13   9.37939000e-01
+   6.20611000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 155.5359
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 12.0
+  duration_of_stay: 5.0
+  srch_adults_cnt: 9.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 6.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 3.0
+Prenzlauer Berg, Berlin, Germany
+location: 774 52.539640000000006
+
+Prediction: [  2.19107000e-02   9.78089000e-01   4.90506000e-09   5.14344000e-18
+   0.00000000e+00]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 754.9289
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 181.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 2.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+Jackson Town Square, Jackson, Wyoming, United States of America
+location: 681 43.4796
+
+Prediction: [  0.00000000e+00   2.00483000e-35   5.53440000e-12   9.95321000e-01
+   4.67930000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 29.8554
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 20.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 2.0
+St. Augustine (and vicinity), Florida, United States of America
+location: 464 29.911696000000003
+
+Prediction: [  0.00000000e+00   0.00000000e+00   2.79598000e-14   9.12367000e-01
+   8.76327000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 14.4632
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 4.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 3.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 3.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Houston, TX, United States (IAH-George Bush Intercontinental)
+location: 712 29.97512
+
+Prediction: [  1.17036000e-10   9.40066000e-01   5.99338000e-02   6.81472000e-07
+   1.37354000e-14]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 1896.6676
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 272.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 3.0
+  distance_band_n: 0.0
+  hist_price_band_n: 2
+  popularity_band_n: 3.0
+New Orleans (and vicinity), Louisiana, United States of America
+location: 464 29.953459000000002
+
+Prediction: [  0.00000000e+00   6.05844000e-30   1.02919000e-06   9.99999000e-01
+   1.30713000e-09]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 85.9081
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 10.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 4.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Downtown Omaha, Nebraska, United States of America
+location: 774 41.258390000000006
+
+Prediction: [  0.00000000e+00   1.05873000e-11   9.53370000e-01   4.66300000e-02
+   1.93764000e-12]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 733.1116
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 69.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 1.0
+Brentwood, Tennessee, United States of America
+location: 774 36.000240000000005
+
+Prediction: [  9.99533000e-01   4.67024000e-04   2.14762000e-18   1.33598000e-26
+   0.00000000e+00]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 1775.8471
+  is_mobile: 0.0
+  is_package: 1.0
+  days_to_booking: 45.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Gunnison, Colorado, United States of America
+location: 557 38.481770000000004
+
+Prediction: [  1.49932000e-12   9.99969000e-01   3.06476000e-05   4.48792000e-15
+   0.00000000e+00]
+Actual: [ 0.  0.  1.  0.  0.]
+  orig_destination_distance: 0.0452
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 14.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 2
+  popularity_band_n: 4.0
+Philadelphia (and vicinity), Pennsylvania, United States of America
+location: 464 39.951869
+
+Prediction: [  0.00000000e+00   2.71406000e-34   1.04482000e-10   9.91036000e-01
+   8.96436000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 160.7447
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 78.0
+  duration_of_stay: 4.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 4.0
+  distance_band_n: 2.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Kamloops (and vicinity), British Columbia, Canada
+location: 464 50.67158
+
+Prediction: [  0.00000000e+00   1.66304000e-14   9.99901000e-01   9.93202000e-05
+   4.36377000e-22]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 258.365
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 8.0
+  duration_of_stay: 2.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Las Vegas (and vicinity), Nevada, United States of America
+location: 464 36.11410775
+
+Prediction: [  0.00000000e+00   1.03080000e-07   9.99420000e-01   5.80114000e-04
+   1.26573000e-11]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 1669.8072
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 5.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 1.0
+  hist_price_band_n: 3
+  popularity_band_n: 2.0
+Seattle-Tacoma International Airport (SEA), Washington, United States of America
+location: 774 47.43439
+
+Prediction: [  0.00000000e+00   4.70243000e-36   4.74689000e-13   9.90419000e-01
+   9.58104000e-03]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 68.1041
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 53.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 4.0
+  distance_band_n: 0.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Richmond (and vicinity), Virginia, United States of America
+location: 464 37.54337
+
+Prediction: [  0.00000000e+00   0.00000000e+00   4.72992000e-13   9.87705000e-01
+   1.22954000e-02]
+Actual: [ 0.  0.  0.  0.  1.]
+  orig_destination_distance: 38.4115
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 1.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 6.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 6.0
+  prop_is_branded: 1.0
+  prop_starrating: 5.0
+  distance_band_n: 3.0
+  hist_price_band_n: 4
+  popularity_band_n: 4.0
+Los Angeles (and vicinity), California, United States of America
+location: 464 34.044404
+
+Prediction: [  7.89666000e-33   4.55659000e-05   9.99954000e-01   1.02490000e-09
+   9.47800000e-31]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 443.1281
+  is_mobile: 0.0
+  is_package: 0.0
+  days_to_booking: 5.0
+  duration_of_stay: 1.0
+  srch_adults_cnt: 1.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 1.0
+  prop_starrating: 3.0
+  distance_band_n: 2.0
+  hist_price_band_n: 3
+  popularity_band_n: 4.0
+Scottsbluff (and vicinity), Nebraska, United States of America
+location: 464 41.86741
+
+Prediction: [  0.00000000e+00   5.88997000e-14   9.99815000e-01   1.84865000e-04
+   1.12567000e-20]
+Actual: [ 0.  0.  0.  1.  0.]
+  orig_destination_distance: 231.6992
+  is_mobile: 1.0
+  is_package: 0.0
+  days_to_booking: 8.0
+  duration_of_stay: 3.0
+  srch_adults_cnt: 2.0
+  srch_children_cnt: 0.0
+  srch_rm_cnt: 1.0
+  prop_is_branded: 0.0
+  prop_starrating: 5.0
+  distance_band_n: 3.0
+  hist_price_band_n: 3
+  popularity_band_n: 3.0
+Ottawa (and vicinity), Ontario, Canada
+location: 464 45.420390000000005
+
+Python 3.6.1 (default, Mar 27 2017, 00:27:06) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.0.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: Do you really want to exit ([y]/n)? 
